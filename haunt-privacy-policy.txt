@@ -3,7 +3,7 @@ Privacy Policy for Kelsi Davies: Haunt Escape
 Hibby Games built 'Kelsi Davies: Haunt Escape' as a commercial app.
 
 Data Collection & Third-Party Services
-We do not directly collect, harvest, or store personal user data on private servers. However, this game integrates third-party Software Development Kits (SDKs) to support gameplay analytics, ad mediation, and advertisement delivery. These third parties may collect data, including but not limited to device information, device identifiers (such as Advertising ID), IP addresses, and gameplay performance metrics.
+We do not directly collect, harvest, or store personal user data on private servers. However, this game integrates third-party Software Development Kits (SDKs) to support gameplay analytics, push notifications, ad mediation, and advertisement delivery. These third parties may collect data, including but not limited to device information, device identifiers (such as Advertising ID), IP addresses, and gameplay performance metrics.
 
 You can review the privacy policies of our integrated partners below:
 Unity (Engine & Analytics): https://unity.com/legal/privacy-policy
