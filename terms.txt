@@ -1,0 +1,54 @@
+# Terms of Use & End User License Agreement
+
+**Effective Date:** November 23, 2026  
+**Developer:** Hibby Games (Aaron Hibberd)  
+**Covered Applications:** Kelsi Davies: Haunt Escape; Taya's Alphabet (Android and iOS)  
+**Contact Email:** contact@hibbygames.com  
+
+Welcome to the mobile games published by Hibby Games ("we," "our," or "us"). By downloading, installing, or playing **Kelsi Davies: Haunt Escape** or **Taya's Alphabet** (collectively, the "Games"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not download or play the Games.
+
+## 1. Eligibility and Age Requirements
+Our Games are intended for general and older audiences (**Kelsi Davies: Haunt Escape** is rated Teen / 13+, and **Taya's Alphabet** is rated Everyone 10+ / 9+). By playing the Games, you represent that you meet the minimum age rating for the applicable Game in your jurisdiction, or that you have obtained permission from a parent or legal guardian who agrees to these Terms on your behalf.
+
+## 2. Limited License to Play
+Subject to your compliance with these Terms, Hibby Games grants you a personal, limited, non-exclusive, non-transferable, revocable license to download and play the Games on a compatible Android or iOS device that you own or control, solely for your personal, non-commercial entertainment.
+
+You agree **not** to:
+* Copy, modify, adapt, translate, reverse-engineer, decompile, or disassemble any part of the Games.
+* Use cheats, exploits, automation software, bots, or unauthorized third-party mods designed to alter gameplay or bypass In-App Purchases or advertisements.
+* Rent, lease, sell, sublicense, distribute, or commercially exploit the Games or any in-game assets.
+
+## 3. Intellectual Property Rights
+All rights, title, and interest in and to the Games—including all code, artwork, characters, storylines, dialogue, sound effects, music, trademarks, and logos—are owned by Hibby Games or its licensors and are protected by copyright, trademark, and other intellectual property laws. Nothing in these Terms transfers any ownership rights to you.
+
+## 4. In-App Purchases and Virtual Content
+The Games may offer optional In-App Purchases (such as unlocking additional episodes, levels, or ad-free features).
+* **Payment Processing:** All purchases are processed directly through Google Play or the Apple App Store and are governed by their respective payment terms. Hibby Games does not collect or store your payment card details.
+* **No Real-World Value:** Unlocked episodes, digital items, and virtual features are licensed to you—not sold—and have no real-world monetary value. They cannot be exchanged for cash or transferred outside the Game.
+* **Refunds:** Because transactions are handled by Google Play and Apple, all refund requests must be submitted directly through Google Play or Apple Support in accordance with their refund policies.
+
+## 5. Advertisements and Third-Party Services
+The Games display third-party advertisements (via Unity LevelPlay / ironSource, Unity Ads, and Google AdMob) and integrate platform services such as Google Play Games Services and Apple Game Center. The Games may also contain links to external platforms (such as Discord). Hibby Games is not responsible for the content, availability, or practices of third-party websites, advertisements, or services.
+
+## 6. Updates and Availability
+We may release patches, updates, or modifications to the Games, or discontinue support for older devices or operating system versions, at any time without prior notice. We do not guarantee that the Games or any online features (such as achievements or cloud-synced features) will be available uninterrupted or error-free.
+
+## 7. Disclaimer of Warranties
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE GAMES ARE PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+## 8. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, HIBBY GAMES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, GAME PROGRESS, OR PROFITS ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE GAMES. IN NO EVENT SHALL HIBBY GAMES' TOTAL LIABILITY EXCEED THE AMOUNT YOU PAID TO HIBBY GAMES (IF ANY) FOR IN-APP PURCHASES IN THE RELEVANT GAME DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+## 9. Apple App Store Terms (iOS Users Only)
+If you downloaded a Game from the Apple App Store, the following terms also apply:
+* **Acknowledgement:** These Terms are between you and Hibby Games only, and not with Apple Inc. ("Apple"). Hibby Games, not Apple, is solely responsible for the Game and its content.
+* **Maintenance and Support:** Apple has no obligation whatsoever to furnish any maintenance or support services with respect to the Game.
+* **Warranty and Product Claims:** Apple is not responsible for any product warranties, product liability claims, regulatory compliance claims, or intellectual property infringement claims relating to the Game.
+* **Legal Compliance:** You represent and warrant that you are not located in a country subject to a U.S. Government embargo or designated as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties.
+* **Third-Party Beneficiary:** Apple and Apple's subsidiaries are third-party beneficiaries of these Terms and, upon your acceptance, will have the right to enforce these Terms against you as a third-party beneficiary.
+
+## 10. Governing Law
+These Terms are governed by and construed in accordance with the laws of the Province of British Columbia and the federal laws of Canada applicable therein, without regard to conflict-of-law principles (except where consumer protection laws in your jurisdiction require local law to apply).
+
+## 11. Changes to These Terms
+We may update these Terms from time to time. Updated Terms will be posted on this page with a revised Effective Date. Your continued use of the Games after changes are posted constitutes your acceptance of the updated Terms.
