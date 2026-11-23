@@ -30,7 +30,7 @@ Information collected through our Games is used to:
 * Serve, mediate, and measure advertisements (including personalized or contextual ads, depending on your region and device permissions).
 * Analyze gameplay performance, player progression, and crash diagnostics to fix bugs and improve game balance.
 * Deliver optional push notifications (when enabled by you in *Kelsi Davies: Haunt Escape*).
-* Prevent fraud and comply with applicable regional age-assurance laws using the **Google Play Age Signals API** (Android) and **Apple Declared Age Range API** (iOS). Age signals are used strictly to deliver age-appropriate experiences and are never used for advertising or shared with third parties.
+* Prevent fraud and comply with applicable regional age-assurance laws using the **Google Play Age Signals API** (Android) and **Apple Declared Age Range API** (iOS). Age signals are used to deliver age-appropriate experiences.
 
 ## 4. Third-Party Service Providers
 Not every SDK is active in every Game or platform (for example, *Taya's Alphabet* does not use push notifications). Across our Games, we use the following third-party providers:
